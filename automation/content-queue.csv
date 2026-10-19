@@ -1,8 +1,8 @@
 id,priority,working_title,target_query,commercial_intent,programme,seasonality,status,draft_path,source_checked_at,next_action
-1,1,Best woodworking tools for beginners in the UK,best woodworking tools for beginners UK,high,Amazon UK / eBay,evergreen,planned,,,Research current beginner tool options and safety guidance
+1,1,Best woodworking tools for beginners in the UK,best woodworking tools for beginners UK,high,Amazon UK / eBay,evergreen,drafted,drafts/002-best-woodworking-tools-for-beginners-uk.md,2026-10-19,"Human review: verify product claims, add original images and approve before publishing"
 2,2,What to buy for a small home woodworking workshop,small woodworking workshop tools UK,high,Amazon UK / eBay,evergreen,planned,,,Compare space-saving tools and dust-control basics
 3,3,Best sandpaper and abrasives for furniture projects,best sandpaper for furniture restoration UK,medium,Amazon UK / eBay,evergreen,planned,,,Explain grit selection and finishing workflow
-4,4,Beginner-friendly wood finishes: oils, waxes and varnishes,wood finish for beginners UK,high,Amazon UK / eBay,planned,planned,,Use manufacturer safety data and application guidance
+4,4,"Beginner-friendly wood finishes: oils, waxes and varnishes",wood finish for beginners UK,high,Amazon UK / eBay,evergreen,planned,,,Use manufacturer safety data and application guidance
 5,5,Essential PPE for woodworking at home,woodworking PPE UK dust eye hearing protection,high,Amazon UK / eBay,evergreen,planned,,,Prioritise safety sources and avoid unsupported protection claims
 6,6,How to choose clamps for DIY woodworking, best clamps for woodworking UK,medium,Amazon UK / eBay,evergreen,planned,,,Compare types by project use and capacity
 7,7,Starter materials list for a simple wooden shelf,wooden shelf project materials UK,medium,Amazon UK / eBay,evergreen,planned,,,Create an honest bill of materials with alternatives
